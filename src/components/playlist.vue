@@ -43,7 +43,7 @@ export default {
 <style scoped>
 
 .selected {
-  background-color: rgb(129, 61, 61) !important;
+  background-color: rgb(41, 92, 158) !important;
 }
 .even {
   background-color: #303030;
